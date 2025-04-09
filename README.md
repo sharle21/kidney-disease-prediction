@@ -1,3 +1,4 @@
+> Originally developed in collaboration with [@bhavya-jain99](https://github.com/bhavya-jain99)
 # Chronic-Kidney-disease-prediction-
 In this project, I had used various machine learning unsupervised
 classification algorithms like SVM, KNN, Random Forest, XG Boost to
